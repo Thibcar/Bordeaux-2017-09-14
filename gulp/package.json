@@ -5,8 +5,13 @@
   "dependencies": {
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.8.0",
     "gulp-concat": "^2.6.1",
+    "gulp-copy": "^1.0.1",
+    "gulp-minify": "^1.0.0",
     "gulp-sass": "^3.1.0",
-    "gulp-watch": "^4.3.11"
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "pump": "^1.0.2"
   }
 }
